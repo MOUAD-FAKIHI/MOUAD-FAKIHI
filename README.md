@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOUAD FAKIHI</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif"/>
+<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif"/>
 
 
 
@@ -9,8 +9,7 @@
 - 📫 How to reach me **mouadfakihi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">![Coding (2)](https://user-images.githubusercontent.com/101474129/216165213-dd4d3606-972b-465a-b5b6-cd1e061b781b.gif)
-
+<p align="left">
 <a href="https://linkedin.com/in/mouad-fakihi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouad-fakihi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mouadfakihi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mouadfakihi01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mouadfakihi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mouadfakihi01" height="30" width="40" /></a>
