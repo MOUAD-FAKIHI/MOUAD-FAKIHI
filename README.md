@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouad-fakihi&label=Profile%20views&color=0e75b6&style=flat" alt="mouad-fakihi" /> </p>
 
-- 👨‍💻 All of my projects are available at **[my portfolio]**(https://mofa-portfolio.pages.dev)
+- 👨‍💻 All of my projects are available at **[my portfolio](https://mofa-portfolio.pages.dev)**
 - 📫 How to reach me **mouadfakihi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
